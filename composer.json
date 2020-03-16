@@ -1,0 +1,16 @@
+{
+    "name": "tlingc/aliyun-log-sdk",
+    "description": "Aliyun Log Service PHP SDK",
+    "keywords": ["aliyun", "log", "sls", "sdk"],
+    "homepage": "https://github.com/TLingC/aliyun-log-php-sdk",
+    "authors": [
+        {
+            "name": "TLingC",
+            "email": "my@tlingc.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
+}
